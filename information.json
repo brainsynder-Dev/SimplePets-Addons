@@ -1,7 +1,7 @@
-{
-  "TestAddon": {
+[
+  {
     "name": "TestAddon",
     "author": "brainsynder",
     "url": "https://github.com/brainsynder-Dev/SimplePets-Addons/raw/main/addons/PetAddonTest.jar"
   }
-}
+]
